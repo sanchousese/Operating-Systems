@@ -14,9 +14,9 @@ Producers and consumers problem
 On semaphores and mutexes. (WIN32)
 
 
-Sleeping barber problem
+Readers and writers problem
 ---------
-On semaphores, mutexes and pthreads.
+On semaphores and pthreads.
 
 ```c++
 gcc readersWriters.cpp -o readersWriters -lpthread
